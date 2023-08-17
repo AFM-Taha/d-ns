@@ -1,0 +1,47 @@
+h1 {
+  @apply text-[28px] md:text-[48px] font-[600] leading-[36px] md:leading-[56px];
+}
+
+h2 {
+  @apply text-[22px] md:text-[40px] font-[600] leading-[32px] md:leading-[48px];
+}
+
+h3 {
+  @apply text-[20px] md:text-[32px] font-[600] leading-[32px] md:leading-[42px];
+}
+
+h4 {
+  @apply text-[18px] md:text-[28px] font-[600] leading-[26px] md:leading-[36px] tracking-[0.54px] md:tracking-normal;
+}
+
+h5 {
+  @apply text-[22px] font-[600] leading-[32px];
+}
+
+h6 {
+  @apply text-[20px] font-[600] leading-[32px];
+}
+
+.h7 {
+  @apply text-[18px] font-[600] leading-[26px] tracking-[0.54px];
+}
+
+p {
+  @apply text-[16px] font-[400] leading-[24px];
+}
+
+.subtitle {
+  @apply text-[18px] font-[400] leading-[26px];
+}
+
+.body_sb {
+  @apply text-[14px] md:text-[16px] font-[600] leading-[22px] md:leading-[24px];
+}
+
+.caption {
+  @apply text-[12px] md:text-[14px] font-[600] md:font-[400] leading-[20px] md:leading-[22px];
+}
+
+.label {
+  @apply text-[10px] md:text-[12px] font-[600] md:font-[400] leading-[12px] md:leading-[14px];
+}
