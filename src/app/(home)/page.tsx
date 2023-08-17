@@ -15,7 +15,7 @@ const HomePage = () => {
     <section className=" mt-40 ">
       <Card {...a} />
 
-      <Card1 />
+{/*       <Card1 /> */}
     </section>
   );
 };
